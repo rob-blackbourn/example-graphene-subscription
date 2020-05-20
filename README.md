@@ -4,9 +4,10 @@ Note this **requires graphene v3** which at the time of writing (2020-05-20) is 
 
 ## Usage
 
-1. Create and activate a virtual environment for Python 3.7 or later.
-2. Install the packages
-3. Run the example `subscribe.py`
+1. Create a virtual environment for Python 3.7 or later.
+2. Activate the virtual environment,
+3. Install the packages,
+4. Run the example `subscribe.py`.
 
 ```bash
 $ python3.7 -m venv .venv
